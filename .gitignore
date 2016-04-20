@@ -1,0 +1,13 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
