@@ -1,6 +1,6 @@
 ## ゆーすけべーのネタ帳
 
-* [ゆーすけべー日記](http://blog.yusuke.be/)に書く**ネタ**とかを[Issuesに貯めときます](https://github.com/yusukebe/neta/issues)。
+* [ゆーすけべー日記](https//yusukebe.com/)に書く**ネタ**、作りたいモノとかを[Issuesに貯めときます](https://github.com/yusukebe/neta/issues)。
 * **とりあえず**publicにしておきます。
 * **実験的に**やってますので見たりコメントしたり歓迎です。
 * **晒すこと**でBlog記事を書くペースをあげたいと思います。
